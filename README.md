@@ -7,7 +7,7 @@ In this articles I made you can read all about Google Dorks:
 ![Screenshot](g-dorks.png)
 ****
 
-# Install Dork List -
+# Install Dork List On LINUX-
 
 sudo git clone https://github.com/4hs4n/G-Dorks-2K21.git
 
