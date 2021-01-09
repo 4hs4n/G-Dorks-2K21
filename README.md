@@ -15,3 +15,11 @@ cd G-Dorks-2K21
 
 cat G-Dorks-2k21.txt
 
+# Install Dork List On TERMUX -
+
+git clone https://github.com/4hs4n/G-Dorks-2K21.git
+
+cd G-Dorks-2K21 
+
+cat G-Dorks-2k21.txt
+
